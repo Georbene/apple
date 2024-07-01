@@ -1,0 +1,173 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+background-color: #F5F5F7;
+}
+.nav {
+  background-color: #F5F5F7;
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr;
+  padding: 20px;
+  width: 1400px;
+  position: fixed;
+  top: 0px;
+  z-index:1;
+}
+.ch {
+  margin-left: 80px;
+  font-size: 14px;
+}
+.nig {
+  background-color: white;
+  width: 200px;
+  height: 5vh;
+  color: rgba(0, 0, 0, 0.521);
+  margin-left: 80px;
+}
+.but {
+  background-color: black;
+  color: white;
+  margin-left: 100px;
+  width: 100px;
+  text-align: center;
+  border-radius: 6px;
+}
+.secone {
+  margin-top: 140px;
+  text-align: center;
+  justify-content: center;
+position: relative;
+}
+.app{
+    font-size: 70px;
+    font-weight: 600;
+}
+.ai{
+    font-size: 30px;
+}
+.com{
+padding: 10px;
+margin-bottom: 20px;
+}
+.lemo{
+    font-size: 19px;
+width: 120px;
+height: 40px;
+border-radius: 40px;
+margin-left: -7px;
+background-color: #0077ED;
+color: white;
+border: none;
+}
+.wft{
+    margin-left: 20px;
+    font-size: 19px;
+width: 150px;
+height: 40px;
+border-radius: 40px;
+color: #0077ED;
+border: 1PX solid #0077ED;
+}
+.wft:hover{
+background-color: #0077ED;
+color: white;
+}
+.em{
+   position: absolute;
+   font-size: 40px;
+   font-weight: bolder;
+   margin-top: -650px;
+   margin-left: 500px;
+   color: white; 
+}
+.fourph{
+    margin-top: -300px;
+}
+.blip{
+    margin-top: -215px;
+    position: relative;
+}
+.miip{
+    margin-top: -300px;
+}
+.tita{
+  position: absolute;
+  margin-top: -598px;
+    font-size: 30px;
+margin-left: 400px;
+color: white;  
+}
+.lamo{
+  position: absolute;
+  margin-top: -530px;
+    font-size: 19px;
+width: 120px;
+height: 40px;
+border-radius: 40px;
+margin-left: 500px;
+background-color: #0077ED;
+color: white;
+border: none;
+}
+.buyrn{
+  position: absolute;
+    margin-top: -50px;
+    font-size: 19px;
+width: 120px;
+height: 40px;
+border-radius: 40px;
+margin-left: 640px;
+color: #0077ED;
+border: 1px #0077ED solid;
+background-color: black;
+}
+.buyrn:hover{
+  color: white;
+  background-color: #0077ED ;
+}
+.ita{
+  position: absolute;
+  margin-top: -450px;
+  color: black;
+    font-size: 30px;
+margin-left: 400px;
+}
+.eme{
+  color: black;
+   position: absolute;
+   font-size: 40px;
+   font-weight: bolder;
+   margin-top: -500px;
+   margin-left: 500px; 
+}
+.lao{
+  position: absolute;
+  margin-top: -400px;
+    font-size: 19px;
+width: 120px;
+height: 40px;
+border-radius: 40px;
+margin-left: 500px;
+background-color: #0077ED;
+color: white;
+border: none;
+}
+.burn{
+  position: absolute;
+    margin-top: -400px;
+    font-size: 19px;
+width: 120px;
+height: 40px;
+border-radius: 40px;
+margin-left: 640px;
+color: #0077ED;
+border: 1px #0077ED solid;
+background-color: black;
+}
+.burn:hover{
+  color: white;
+  background-color: #0077ED ;
+}
